@@ -59,7 +59,7 @@ show_residue_sphere, which adds a colored sphere at the position of a specified 
 	residue_number: The residue number to mark with a sphere. Defaults to 1.
 	sph_radius: The radius of the sphere. Defaults to 2.
 	sph_color: The color of the sphere, provided as a space-separated RGB string (e.g., '1.0 0.0 0.0' for red).
-</pre>pre>
+</pre>
 
 
 
