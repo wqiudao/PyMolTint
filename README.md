@@ -12,7 +12,7 @@ show_residue_sphere 666,6
 
 show_residue_sphere 666,8,1 0.5 0.1
 
-# show_residue_sphere residue_number, sph_radius, sph_color 
+# show_residue_sphere residue_number, sph_radius, sph_color(space-separated RGB string)
 ```
 # install
 Download the *PyMolTint.py* script to your local machine, Launch PyMOL, and use the following command to load the *PyMolTint.py* script into PyMOL
@@ -53,16 +53,12 @@ The JSON file is located in PyMOL's current working directory; otherwise, the fu
 <img src="https://github.com/wqiudao/PyMolTint/blob/main/imgs/AF2Color/af2color_legend.png" alt="Alt text" width="600">
 -
 
-
-
-
-
-
-
-
-
-
 ## 2. show_residue_sphere
+show_residue_sphere, which adds a colored sphere at the position of a specified residue in the loaded structure. 
+Input Parameters:
+	residue_number: The residue number to mark with a sphere. Defaults to 1.
+	sph_radius: The radius of the sphere. Defaults to 2.
+	sph_color: The color of the sphere, provided as a space-separated RGB string (e.g., '1.0 0.0 0.0' for red).
 
 
 
