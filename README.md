@@ -11,6 +11,7 @@ show_residue_sphere 666
 show_residue_sphere 666,6
 
 show_residue_sphere 666,8,1 0.5 0.1
+# show_residue_sphere residue_number, sph_radius, sph_color 
 ```
 # install
 Download the *PyMolTint.py* script to your local machine, Launch PyMOL, and use the following command to load the *PyMolTint.py* script into PyMOL
