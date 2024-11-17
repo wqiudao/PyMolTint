@@ -19,9 +19,7 @@ Download the *PyMolTint.py* script to your local machine, Launch PyMOL, and use 
 ```
 run /path/to/PyMolTint.py
 ```
--
 ![PyMolTint.py](https://github.com/wqiudao/PyMolTint/blob/main/imgs/loading_plugin.png)
-![PyMolTint.py](https://github.com/wqiudao/PyMolTint/blob/main/imgs/AF2Color/af2color3.png)
 
 ## 1. af2color
 
