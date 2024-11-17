@@ -42,17 +42,8 @@ The JSON file is located in PyMOL's current working directory; otherwise, the fu
 -
 <img src="https://github.com/wqiudao/PyMolTint/blob/main/imgs/AF2Color/af2color3.png" alt="Alt text" width="1200">
 -
-<img src="https://github.com/wqiudao/PyMolTint/blob/main/imgs/AF2Color/af2color4.png" alt="Alt text" width="1200">
--
--
 <img src="https://github.com/wqiudao/PyMolTint/blob/main/imgs/AF2Color/af2color_legend.png" alt="Alt text" width="600">
-
-
-
-
-
-
-
+-
 
 
 
