@@ -21,7 +21,7 @@ The JSON file is located in PyMOL's current working directory; otherwise, the fu
 
 <pre> af2color json_file  </pre>
 
-### af2color: Data Preparation
+### 1. af2color: Data Preparation
 -
   We need to prepare two files, located in the same directory. 
   1. The Alphafold prediction result files, including `PDB` or `CIF` format structure files, as well as the corresponding `JSON` format files containing pLDDT values (The predicted local distance difference test).
