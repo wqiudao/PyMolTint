@@ -72,7 +72,7 @@ show_residue_sphere 888,8,1 0.5 0.1
 ```
 ![PyMolTint.py](https://github.com/wqiudao/PyMolTint/blob/main/imgs/show_residue_sphere/show_residue_sphere3.png)
  
- 
+[Color Values](https://pymolwiki.org/index.php/Color_Values) 
 
 
 
