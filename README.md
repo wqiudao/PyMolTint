@@ -79,4 +79,4 @@ show_residue_sphere 888,8,1 0.5 0.1
 
 
 # References/Citations
-
+DeLano, W. L. (2002). Pymol: An open-source molecular graphics tool. CCP4 Newsl. Protein Crystallogr, 40(1), 82-92.
