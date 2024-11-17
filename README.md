@@ -14,7 +14,7 @@ The JSON file is located in PyMOL's current working directory; otherwise, the fu
 
 <pre> af2color json_file  </pre>
 
-## Data Preparation
+### Data Preparation
 We need to prepare three files, located in the same directory:
 
   1. The script `af2color_local.py`, which needs to be downloaded to the local machine.
@@ -25,7 +25,7 @@ We need to prepare three files, located in the same directory:
   <img src="https://github.com/wqiudao/PyMolTint/blob/main/imgs/AF2Color/af2color0.png" alt="Alt text" width="800">
 -
 
-## install & run
+### install & run
 1. Open the structure file using PyMOL，and in the command line, enter the code to load the `af2color` function.
 <pre> run af2color_local.py  </pre>
 2. Color structures.
