@@ -46,9 +46,8 @@ The JSON file is located in PyMOL's current working directory; otherwise, the fu
 
 <pre> af2color fold_5xwp_full_data_0.json  </pre>
 -
-<img src="https://github.com/wqiudao/PyMolTint/blob/main/imgs/AF2Color/af2color1.png" alt="Alt text" width="1200">
--
-<img src="https://github.com/wqiudao/PyMolTint/blob/main/imgs/AF2Color/af2color2.png" alt="Alt text" width="1200">
+ ![PyMolTint.py](https://github.com/wqiudao/PyMolTint/blob/main/imgs/AF2Color/af2color1.png)
+ ![PyMolTint.py](https://github.com/wqiudao/PyMolTint/blob/main/imgs/AF2Color/af2color2.png)
 -
 <img src="https://github.com/wqiudao/PyMolTint/blob/main/imgs/AF2Color/af2color_legend.png" alt="Alt text" width="300">
 -
