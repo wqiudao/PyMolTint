@@ -6,11 +6,7 @@ PyMolTint is a PyMOL plugin designed to enhance the visualization of molecular s
 Download the *PyMolTint.py* script to your local machine, Launch PyMOL, and use the following command to load the *PyMolTint.py* script into PyMOL
 
 `run /path/to/PyMolTint.py`
--
-  <img src="https://github.com/wqiudao/PyMolTint/blob/main/imgs/loading_plugin.png" alt="Alt text" width="800"; display:block; margin: 0 auto;>
--
-
-
+![Alt text](https://github.com/wqiudao/PyMolTint/blob/main/imgs/loading_plugin.png)
 ## 1. af2color
 
 Set colors for atoms in the loaded PDB file based on the atom_plddts values from the JSON file.
