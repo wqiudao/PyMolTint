@@ -13,18 +13,7 @@ Download the *PyMolTint.py* script to your local machine, Launch PyMOL, and use 
 
 
 
-
-
-
-
-
-
-
-
-
 ## 1. af2color
-
-# AF2Color
 
 Set colors for atoms in the loaded PDB file based on the atom_plddts values from the JSON file.
 Parameters:
