@@ -2,11 +2,13 @@
 PyMolTint is a PyMOL plugin designed to enhance the visualization of molecular structures by allowing users to easily highlight specific residues with color and markers. This tool simplifies the process of marking residues with colored spheres, helping to emphasize important areas in a molecular structure for better analysis and presentation.
 1. **af2color:** set colors for atoms in the loaded PDB file based on the atom_plddts values from the JSON file.
 ```
-af2color json_file`
+af2color json_file
 ```
 2. **show_residue_sphere:**  adds a colored sphere at the position of a specified residue in the loaded structure.
 ```
-show_residue_sphere 666`
+show_residue_sphere 666
+show_residue_sphere 666,6
+show_residue_sphere 666,8,1 0.5 0.1
 ```
 # install
 Download the *PyMolTint.py* script to your local machine, Launch PyMOL, and use the following command to load the *PyMolTint.py* script into PyMOL
