@@ -8,7 +8,7 @@ Download the *PyMolTint.py* script to your local machine, Launch PyMOL, and use 
 run /path/to/PyMolTint.py
 ```
 -
-![Alt text](https://github.com/wqiudao/PyMolTint/blob/main/imgs/loading_plugin.png)
+![PyMolTint.py](https://github.com/wqiudao/PyMolTint/blob/main/imgs/loading_plugin.png)
 
 
 ## 1. af2color
