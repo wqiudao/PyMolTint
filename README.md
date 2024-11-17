@@ -21,7 +21,7 @@ run /path/to/PyMolTint.py
 ```
 -
 ![PyMolTint.py](https://github.com/wqiudao/PyMolTint/blob/main/imgs/loading_plugin.png)
-
+![PyMolTint.py](https://github.com/wqiudao/PyMolTint/blob/main/imgs/AF2Color/af2color3.png)
 
 ## 1. af2color
 
@@ -51,8 +51,6 @@ The JSON file is located in PyMOL's current working directory; otherwise, the fu
 <img src="https://github.com/wqiudao/PyMolTint/blob/main/imgs/AF2Color/af2color1.png" alt="Alt text" width="1200">
 -
 <img src="https://github.com/wqiudao/PyMolTint/blob/main/imgs/AF2Color/af2color2.png" alt="Alt text" width="1200">
--
-<img src="https://github.com/wqiudao/PyMolTint/blob/main/imgs/AF2Color/af2color3.png" alt="Alt text" width="1200">
 -
 <img src="https://github.com/wqiudao/PyMolTint/blob/main/imgs/AF2Color/af2color_legend.png" alt="Alt text" width="600">
 -
