@@ -7,7 +7,9 @@ af2color json_file
 2. **show_residue_sphere:**  adds a colored sphere at the position of a specified residue in the loaded structure.
 ```
 show_residue_sphere 666
+
 show_residue_sphere 666,6
+
 show_residue_sphere 666,8,1 0.5 0.1
 ```
 # install
