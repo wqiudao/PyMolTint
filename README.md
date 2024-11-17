@@ -8,9 +8,9 @@ af2color json_file
 ```
 show_residue_sphere 666
 
-show_residue_sphere 666,6
+show_residue_sphere 6,6
 
-show_residue_sphere 666,8,1 0.5 0.1
+show_residue_sphere 888,8,1 0.5 0.1
 
 # show_residue_sphere residue_number, sph_radius, sph_color(space-separated RGB string)
 ```
@@ -59,7 +59,20 @@ show_residue_sphere, which adds a colored sphere at the position of a specified 
 	sph_radius: The radius of the sphere. Defaults to 2.
 	sph_color: The color of the sphere, provided as a space-separated RGB string (e.g., '1.0 0.0 0.0' for red).
 </pre>
-
+```
+show_residue_sphere 666
+```
+![PyMolTint.py](https://github.com/wqiudao/PyMolTint/blob/main/imgs/show_residue_sphere/show_residue_sphere1.png)
+```
+show_residue_sphere 6,6
+```
+![PyMolTint.py](https://github.com/wqiudao/PyMolTint/blob/main/imgs/show_residue_sphere/show_residue_sphere2.png)
+ ```
+show_residue_sphere 888,8,1 0.5 0.1
+```
+![PyMolTint.py](https://github.com/wqiudao/PyMolTint/blob/main/imgs/show_residue_sphere/show_residue_sphere3.png)
+ 
+ 
 
 
 
