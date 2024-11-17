@@ -54,6 +54,7 @@ The JSON file is located in PyMOL's current working directory; otherwise, the fu
 
 ## 2. show_residue_sphere
 show_residue_sphere, which adds a colored sphere at the position of a specified residue in the loaded structure. 
+[Color Values](https://pymolwiki.org/index.php/Color_Values) 
 <pre>Input Parameters:
 	residue_number: The residue number to mark with a sphere. Defaults to 1.
 	sph_radius: The radius of the sphere. Defaults to 2.
@@ -72,7 +73,7 @@ show_residue_sphere 888,8,1 0.5 0.1
 ```
 ![PyMolTint.py](https://github.com/wqiudao/PyMolTint/blob/main/imgs/show_residue_sphere/show_residue_sphere3.png)
  
-[Color Values](https://pymolwiki.org/index.php/Color_Values) 
+
 
 
 
