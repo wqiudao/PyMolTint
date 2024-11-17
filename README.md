@@ -7,7 +7,7 @@ Download the *PyMolTint.py* script to your local machine, Launch PyMOL, and use 
 
 `run /path/to/PyMolTint.py`
 -
-  <img src="https://github.com/wqiudao/PyMolTint/blob/main/imgs/loading_plugin.png" alt="Alt text" width="800">
+  <img src="https://github.com/wqiudao/PyMolTint/blob/main/imgs/loading_plugin.png" alt="Alt text" width="800"; display:block; margin: 0 auto;>
 -
 
 
