@@ -32,10 +32,8 @@ The JSON file is located in PyMOL's current working directory; otherwise, the fu
 
 -
  
-### install & run
-1. Open the structure file using PyMOL，and in the command line, enter the code to load the `af2color` function.
-<pre> run af2color_local.py  </pre>
-2. Color structures.
+### 1. af2color: run (Color structures)
+
 <pre> af2color fold_5xwp_full_data_0.json  </pre>
 -
 <img src="https://github.com/wqiudao/PyMolTint/blob/main/imgs/AF2Color/af2color1.png" alt="Alt text" width="1200">
