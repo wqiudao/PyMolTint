@@ -139,7 +139,7 @@ def show_residue_sphere(residue_number=1, sph_radius=2, sph_color='1.0 0.0 0.0')
             label_name = f"label_{chains[0]}_{residue_number}"
             cmd.pseudoatom(label_name, pos=[x, y, z + sph_radius + 0.5], label=label_text)
             cmd.set("label_size", 14, label_name)
-            cmd.set("label_color", "white", label_name)
+            cmd.set("label_color", "black", label_name)
     else:
         print("Error: No available structure objects found. Please load a structure first.")
 
@@ -193,7 +193,7 @@ def show_residue_stick(residue_number=1, stick_radius=0.25, stick_color='1.0 0.0
     # Label the CA atom of the residue
     cmd.label(selection + " and name CA", f'"{label_text}"')
     cmd.set("label_size", 14, selection)
-    cmd.set("label_color", "white", selection)  # ← updated to white font
+    cmd.set("label_color", "black", selection)  # ← updated to black font
 
     print(f"✅ Highlighted stick-style residue {label_text}.")
 
