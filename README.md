@@ -73,6 +73,27 @@ show_residue_sphere 6,6
 show_residue_sphere 888,8,1 0.5 0.1
 ```
 ![PyMolTint.py](https://github.com/wqiudao/PyMolTint/blob/main/imgs/show_residue_sphere/show_residue_sphere3.png)
+
+
+
+
+```
+cd /path/to/my/cifs/
+ 
+ 
+obj = cmd.get_names()[0]  # e.g. 'scas_283_model'
+
+ 
+prefix = obj.replace("_model", "")
+
+ 
+cmd.save(f"{prefix}_protein.pdb", "chain A")
+cmd.save(f"{prefix}_rna.pdb", "chain B")
+
+
+
+
+```
  
 
 
